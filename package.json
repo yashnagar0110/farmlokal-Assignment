@@ -1,0 +1,29 @@
+{
+  "name": "temp",
+  "version": "1.0.0",
+  "description": "FARMLOKAL-ASSIGNMENT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yashnagar0110/farmlokal-Assignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/yashnagar0110/farmlokal-Assignment/issues"
+  },
+  "homepage": "https://github.com/yashnagar0110/farmlokal-Assignment#readme",
+  "dependencies": {
+    "axios": "^1.13.4",
+    "axios-retry": "^4.5.0",
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "mysql2": "^3.16.3",
+    "redis": "^5.10.0"
+  }
+}
